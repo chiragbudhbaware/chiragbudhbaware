@@ -98,12 +98,6 @@ A QR-based event management and attendee verification application.
 
 ---
 
-### 3. AI Expense Manager
-
-An AI-powered expense management application designed to help users manage expenses and explore intelligent financial insights.
-
-**Tech Stack:** React, FastAPI, Google Gemini API, SQLite, Firebase Auth
-
 ---
 
 ## 💼 Experience
